@@ -1,4 +1,4 @@
-﻿Zona;Sede;Año;Mes;Ingresos;Costo_Operativo;Utilidad_Bruta;Gastos;Ut_Operacional;Empl_Admon;Empl_Operativo;Ordenes;Hrs_Reales;Hrs_Disponibles;Nivel_rentabilidad
+﻿Zona;Sede;Año;Mes;Ingresos;Costos;Ut_Bruta;Gastos;Ut_Operacional;Empl_Admon;Empl_Operativo;Ordenes;Hrs_Reales;Hrs_Posibles;Nivel_rentab
 Zona Antioquia;Medellín Alistamiento;2021;ene;130985262;75747717;55237545;22969352;32268193;0;11;297;725;1120;Media
 Zona Antioquia;Medellín Alistamiento;2021;feb;153990095;60845429;93144666;15689387;77455279;1;10;342;924;960;Alta
 Zona Antioquia;Medellín Alistamiento;2021;mar;202392276;82840534;119551742;17039667;102512075;1;10;592;1084;960;Alta
